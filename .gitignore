@@ -1,2 +1,2 @@
 .godeps
-bin/
+bin*
